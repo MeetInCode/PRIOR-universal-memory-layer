@@ -1,0 +1,22 @@
+# Core dependencies
+streamlit>=1.30.0
+langchain>=0.3.0
+langchain-groq>=0.2.0
+langchain-neo4j>=0.2.0
+langchain-huggingface>=0.1.0
+langchain-experimental>=0.3.0
+
+# Neo4j
+neo4j>=5.0.0
+
+# Embeddings
+sentence-transformers>=2.2.0
+torch>=2.0.0
+
+# Utilities
+pydantic>=2.0.0
+python-dotenv>=1.0.0
+rich>=13.0.0
+
+# Optional: for GraphRAG features
+# neo4j-graphrag>=0.3.0
