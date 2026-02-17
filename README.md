@@ -19,9 +19,13 @@ Here is a gist of entire project architecture and data flow -
 ## Architecture
 <img width="3074" height="1945" alt="image" src="https://github.com/user-attachments/assets/8ddcef94-0f3b-4755-a0e1-25f20f1c78c3" />
 
+## just a demo mcp simulation with neo4j running in docker
+https://drive.google.com/file/d/16S8A5jCClMnLZV2_-wZ_pFYyA3gEOq9h/view?usp=sharing
 
 # reference - https://arxiv.org/pdf/2504.19413
 ## 🚀 Quick Start
+
+
 
 ```bash
 # 1. Install dependencies
@@ -127,6 +131,10 @@ python -m pytest tests/
 ```bash
 python check_db_connection.py
 ```
+
+
+
+
 
 ## 📝 License
 
